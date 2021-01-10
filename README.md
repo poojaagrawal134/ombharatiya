@@ -24,7 +24,7 @@
 
 
 <!-- section - intro -->
-<img src="https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/banner.jpg">
+<img src="https://github.com/poojaagrawal134/poojaagrawal134/blob/master/assets/icons/banner.jpg">
 
 # ❤ to Build - Software Engineer & Enthusiast!
 
