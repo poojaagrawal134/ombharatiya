@@ -1,4 +1,4 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -18,18 +18,18 @@
 [3]: https://www.twitter.com/poojaagrawal134
 [4]: http://www.medium.com/@poojaagrawal134
 
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+
 
 
 
 
 <!-- section - intro -->
-<!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
+
 
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Pooja, a final year Computer Science Student from Banasthali University. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Pooja, a final year Computer Science Student from Banasthali University. My working principle is learning by doing. ✌💖
 
 <!-- section - intro -->
 
